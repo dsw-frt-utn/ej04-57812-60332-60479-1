@@ -6,5 +6,5 @@
 
 - 60332 Diaz Cabrera, Lucas (lucasd4257@gmail.com)
 - 57812 Martinez, Eduardo (Eduardo.Martinez@alu.frt.utn.edu.ar)
-- 60479 Ponce, Facundo (FacungolgnacioPonce@alu.frt.utn.edu.ar) 
+- 60479 Ponce, Facundo (FacundolgnacioPonce@alu.frt.utn.edu.ar) 
 
