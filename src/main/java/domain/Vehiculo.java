@@ -22,6 +22,10 @@ public abstract class Vehiculo {
     public String getPatente() {
         return patente;
     }
+
+    public Marca getMarca() {
+        return marca;
+    }
     
     public VehiculoTipo getTipo(){
         return tipo;
@@ -48,6 +52,6 @@ public abstract class Vehiculo {
     }
     @Override
     public String toString() {
-        return patente + " - " + marca + " " + modelo + " - Sucursal: " + sucursal.getCodigo();
+        return modelo + " - Sucursal: " + sucursal.getCodigo();
     }
 }
