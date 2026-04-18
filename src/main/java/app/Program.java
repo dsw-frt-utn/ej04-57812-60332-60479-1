@@ -8,10 +8,8 @@ public class Program {
     public static void main(String[] args) throws IllegalArgumentException, InvalidPropertiesFormatException {
         Persistencia.inicializar();
         
-        ListarVehiculosView viewListar = new ListarVehiculosView();
-        viewListar.setVisible(true);
-        
-        AgregarVehiculosView viewAgregar = new AgregarVehiculosView();
-        viewAgregar.setVisible(true);
+        MenuPrincipal menu = new MenuPrincipal();
+        menu.setLocationRelativeTo(null); 
+        menu.setVisible(true);
     }
 }
